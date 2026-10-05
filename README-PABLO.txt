@@ -1,1 +1,1 @@
-Contribución de Pablo Alcantud
+Contribución de Pablo Alcantud mediante Fork y Pull Request
